@@ -49,7 +49,7 @@ def client(show_guide: bool = True, show_author: bool = True):
         print(background.blue+formats.bold+"[I] To exit from clicker type 'q'")
         print("[I] To run the clicker type 'w'\n"+default)
         print(background.cyan+formats.bold+"[I] Important, point your course at the place where the program will click"+default)
-        print(background.cyan+formats.bold+"[I] Also mportant, switch to english layout\n"+default)
+        print(background.cyan+formats.bold+"[I] Also important, switch to english layout\n"+default)
     if show_author:
         print(f"🔮 {formats.italic}Author: Gleb Rodukov{default}")
         print(f"📂 {formats.italic}Github: https://github.com/rodukov/pyautoclick/{default}")
