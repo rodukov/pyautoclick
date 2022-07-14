@@ -1,3 +1,4 @@
+<p style="text-align: center"><img src="preview.jpg"></p>
 # pyautoclick
 The simplest autoclicker in the terminal. In fact, autoclicker is cli of pyautogui and pynput libraries.<br>
 I would say, this is very small and convenient script. He is has clear and readable source code. So suitable for beginners<br>
